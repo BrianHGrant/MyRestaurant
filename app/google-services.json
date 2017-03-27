@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "978069264420",
+    "firebase_url": "https://androidairship.firebaseio.com",
+    "project_id": "androidairship",
+    "storage_bucket": "androidairship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978069264420:android:846a1caca49eb5ba",
+        "android_client_info": {
+          "package_name": "com.bhgconcepts.myrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978069264420-i7slutd3l87mmsfj1781rr01cf5qoj8r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl98pK3Bd_5mm0J6e0eyNImby4WaFGNjc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
